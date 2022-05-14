@@ -8,9 +8,10 @@
 type: folder_brief_live
 ```
  
-[[All Carey People.|All Carey People.]]
+[[Noting/Projects/The Rolodex/All People/All/All Carey People|All Carey People]]
 [[E-mail remover.py|E-mail remover.py]]
 [[QRCode for Student categorisation questionnaire (long).png]]
+https://venerable-dragon-7d56c2.netlify.app/
 
 
 
