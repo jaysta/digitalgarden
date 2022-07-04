@@ -31,12 +31,15 @@
 [[Noting/Projects/The Rolodex/All People/Students/Jaqui Katz|Jaqui Katz]]
 [[Noting/Projects/The Rolodex/All People/Students/Emily Newnham|Emily Newnham]]
 [[Noting/Projects/The Rolodex/All People/Students/David Vollmer|David Vollmer]]
-[[Noting/Projects/The Rolodex/All People/Students/Mei Minami|Mei Minami]]
+[
 [[Noting/Projects/The Rolodex/All People/Students/Caitlin Arthur|Caitlin Arthur]]
+[[Noting/Projects/The Rolodex/All People/Students/James Schapper|James Schapper]]
+
 ## Friends
+
 [[Noting/Projects/The Rolodex/All People/Students/Shannon Goldrick|Shannon Goldrick]]
 [[Noting/Projects/The Rolodex/All People/Students/Mewanmi Dassanayake|Mewanmi Dassanayake]]
-[[Noting/Projects/The Rolodex/All People/Students/James Schapper|James Schapper]]
+[Mei Minami]]
 [[Noting/Projects/The Rolodex/All People/Students/James Dickson|James Dickson]]
 [[Noting/Projects/The Rolodex/All People/Students/Evie Newcomb|Evie Newcomb]]
 [[Noting/Projects/The Rolodex/All People/Students/Massimo Mecchi|Massimo Mecchi]]
@@ -83,3 +86,8 @@ We have been through a lot. Immy‘s [[nicotine addiction|nicotine addiction]]  
 
 2022-05-09T 09:37:27
 loves watching [[Noting/Projects/The Rolodex/All People/People/Mark Fischbach|Mark Fischbach]]
+
+2022-05-28T 17:03:02
+Locker is:
+C3045
+33-23-01 
