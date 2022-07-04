@@ -42,7 +42,8 @@ Date made: 19:10:03---13th/Nov-2021 (317th)
 [[Noting/Projects/The Rolodex/All People/Students/Nicholas Ballard|Nicholas Ballard]]
 [[Noting/Projects/The Rolodex/All People/Students/David Vollmer|David Vollmer]]
 ## siblings
-#todofamily
+[[Catherine Thompson|Catherine Thompson]]
+[[James Thompson|James Thompson]]
 ## parents
 #todofamily
 ## classes
@@ -63,4 +64,7 @@ Date made: 19:10:03---13th/Nov-2021 (317th)
 ### Activities
 [Activities:: #todoExtracurricular ]
 ## notes
-first middle name is peter. one of they
+first middle name is peter. 
+Second middle name is Mitchell
+Dylan Peter Mitchell Thompson
+Lives at 51 Willow Grove Kew
