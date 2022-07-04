@@ -4,34 +4,34 @@
 
 [Name:: Tom Hart]
 [AKA:: #todonickname]
-[Date_of_birth:: DD/MM/YYYY #todobday ]
+[Date_of_birth:: 21/05/2005 ]
 [Zodiac:: #todozodiac ]
-[Nationality:: #todoNationality ]
+[Nationality:: #Australian ]
 [Address:: ]
 [Characteristics::  #todocharacteristics]
 [Occupation:: #todoOccupation]
-[Pronouns:: #todoPronouns ]
-[Sex:: #todosex]
-[Sexuality:: #todosexuality]
+[Pronouns:: #he #him  ]
+[Sex:: #XY ]
+[Sexuality:: #straight ]
 [Roles:: #todoroles]
-[Pet:: #todoPets]
-[House:: #todohouse]
-[E-mail:: #todocontact]
-[Phone:: #todocontact]
-[media:: #todocontact]
+[Pet:: #dog ]
+[House:: #Tranter ]
+[E-mail:: #tom.hart@carey.com.au]
+[Phone:: #0405809130]
+[media:: #tomhart_21]
 
 
 ---
 
-
 # Tom Hart
-
+crystal meth recipe
 ## partner
 [[Noting/Projects/The Rolodex/All People/Students/Pepa Dear|Pepa Dear]]
 
 ## Close Friends
-#todoFriends
-
+[[Fred Ahlberg|Fred Ahlberg]]
+[[Noting/Projects/The Rolodex/All People/Students/Lytton McAteer|Lytton McAteer]]
+[[Noting/Projects/The Rolodex/All People/Students/Maxwell Vindurampulle|Maxwell Vindurampulle]]
 ## Friends
 #todoFriends
 
@@ -72,3 +72,6 @@
 
 
 # Notes
+
+says hi
+and is high
