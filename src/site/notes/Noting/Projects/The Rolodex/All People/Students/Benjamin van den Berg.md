@@ -23,7 +23,7 @@ Date made: 17:26:05---13th/Nov-2021 (317th)
 ---
 # Benjamin van den Berg
 ## partner
-#todopartner
+[[Noting/Projects/The Rolodex/All People/Students/Darcy Kelly-Stout|Darcy Kelly-Stout]]
 ## Close Friends
 #todoFriends
 ## Friends
