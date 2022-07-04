@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/noting/projects/the-rolodex/all-people/all/all-carey-people/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+```
+
 # All Carey People.
 ## Students
 ### Entire senior school cohort
