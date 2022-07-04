@@ -37,6 +37,7 @@
 [[Noting/Projects/The Rolodex/All People/Students/Shannon Goldrick|Shannon Goldrick]]
 [[Noting/Projects/The Rolodex/All People/Students/Georgette Tetaz|Georgette Tetaz]]
 [[Noting/Projects/The Rolodex/All People/Students/Alice Jin|Alice Jin]]
+[[Noting/Projects/The Rolodex/All People/Students/Liesel Trichardt|Liesel Trichardt]]
 ## siblings
 [[Daniel Turner|Daniel Turner]]
 [[Charlotte Turner|Charlotte Turner]]
