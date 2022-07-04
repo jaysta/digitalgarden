@@ -19,7 +19,8 @@
 [E-mail:: <harrison.rindfleish@carey.com.au>]
 [Phone:: #todocontact]
 [media:: #todocontact]
-Date made: 19:34:09---13th/Nov-2021 (317th) 
+Date made: 19:34:09---13th/Nov-2021 (317th)
+
 ---
 # Harrison Rindfleish
 ## partner
@@ -27,7 +28,8 @@ Date made: 19:34:09---13th/Nov-2021 (317th)
 ## Close Friends
 #todoFriends
 ## Friends
-#todoFriends
+[[Noting/Projects/The Rolodex/All People/Students/Sean Samarasinghe|Sean Samarasinghe]]
+[[All|All]]
 ## siblings
 #todofamily
 ## parents
