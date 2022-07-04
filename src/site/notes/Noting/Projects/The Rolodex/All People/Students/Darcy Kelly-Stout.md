@@ -24,7 +24,7 @@ Date made: 18:50:43---13th/Nov-2021 (317th)
 ---
 # Darcy Kelly-Stout
 ## partner
-#todopartner
+[[Noting/Projects/The Rolodex/All People/Students/Benjamin van den Berg|Benjamin van den Berg]]
 ## Close Friends
 #todoFriends
 ## Friends
@@ -52,3 +52,5 @@ Date made: 18:50:43---13th/Nov-2021 (317th)
 [Activities:: #todoExtracurricular ]
 ## notes
 i keep seeing her at Angalsea each year but never said hello
+
+ I Max Timothy disappointment Thompson
