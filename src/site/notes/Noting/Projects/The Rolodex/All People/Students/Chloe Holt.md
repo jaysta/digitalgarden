@@ -23,6 +23,7 @@
 [Phone:: #todocontact]
 [Snapchat:: chloeh0lt]
 [Instagram:: chloeholt__]
+
 ---
 # Chloe Holt
 ## partner
