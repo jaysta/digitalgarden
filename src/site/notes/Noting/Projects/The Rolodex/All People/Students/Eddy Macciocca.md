@@ -31,7 +31,6 @@ Date made: 19:10:16---13th/Nov-2021 (317th)
 #todoFriends
 [[Noting/Projects/The Rolodex/All People/Students/Luca Pellegrino|Luca Pellegrino]]
 [[Noting/Projects/The Rolodex/All People/Students/Eli Taylor|Eli Taylor]]
-[[Noting/Projects/The Rolodex/All People/Students/Lauren Jensz|Lauren Jensz]]
 ## siblings
 #todofamily
 ## parents
