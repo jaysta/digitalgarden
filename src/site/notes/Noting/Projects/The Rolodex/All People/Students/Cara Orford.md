@@ -25,9 +25,22 @@ Date made: 17:35:43---13th/Nov-2021 (317th)
 ## partner
 #todopartner
 ## Close Friends
-#todoFriends
+[[Noting/Projects/The Rolodex/All People/Students/Lauren Jensz|Lauren Jensz]]
+[[Noting/Projects/The Rolodex/All People/Students/Kari Rowson|Kari Rowson]]
+[[Noting/Projects/The Rolodex/All People/Students/Emily Waldron|Emily Waldron]]
+[[Noting/Projects/The Rolodex/All People/Students/Emma Siscos|Emma Siscos]]
+[[Noting/Projects/The Rolodex/All People/Students/Ned Prosser|Ned Prosser]]
 ## Friends
-#todoFriends
+[[Noting/Projects/The Rolodex/All People/Students/Vanessa Alfaro|Vanessa Alfaro]]
+[[Noting/Projects/The Rolodex/All People/Students/Mia Hamilton|Mia Hamilton]]
+[[Noting/Projects/The Rolodex/All People/Students/Ellie Loader|Ellie Loader]]
+[[Noting/Projects/The Rolodex/All People/Students/Lucy Shuttleworth|Lucy Shuttleworth]]
+[[Noting/Projects/The Rolodex/All People/Students/Rachael Lam|Rachael Lam]]
+[[Noting/Projects/The Rolodex/All People/Students/Mylo Adamson|Mylo Adamson]]
+[[Noting/Projects/The Rolodex/All People/Students/Thomas Porrett|Thomas Porrett]]
+[[Noting/Projects/The Rolodex/All People/Students/Alice Freney-Mills|Alice Freney-Mills]]
+[[Noting/Projects/The Rolodex/All People/Students/Ella Abbruzzese|Ella Abbruzzese]]
+[[Noting/Projects/The Rolodex/All People/Students/Susannah Lutze|Susannah Lutze]]
 ## siblings
 #todofamily
 ## parents
